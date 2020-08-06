@@ -8,7 +8,7 @@ public class GitFun {
         
         //this line is from GitHub
         
-        System.out.println("Message to check GitHub. Sent from Gibhub")
+        System.out.println("Message to check GitHub. Sent from Gibhub");
           
 
     }
